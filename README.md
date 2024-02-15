@@ -2,4 +2,4 @@
 # WebApps-Assignment-5 Starter Code
 
 
-Hosted at [GitHub Pages](drinks.html)
+Hosted at [GitHub Pages](https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment5-s571487/drinks.html)https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment5-s571487/drinks.html)
